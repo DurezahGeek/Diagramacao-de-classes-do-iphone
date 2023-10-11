@@ -11,7 +11,7 @@ Como parte do desafio de projeto do Santander Bootcamp 2023, elaborei um diagram
 | Arquivo                          | Descrição                                           |
 |----------------------------------|-----------------------------------------------------|
 | [Iphone](https://github.com/DurezahGeek/Diagramacao-de-classes-do-iphone/tree/main/src/IPhone)    |Serve como ponto de entrada (método main) para simular as funcionalidades de um dispositivo semelhante a um iPhone.       |
-| [AparelhoTelefonico](https://github.com/DurezahGeek/Diagramacao-de-classes-do-iphone/tree/main/src/IPhone/AparelhoTelefonico)    | ligar, atender, iniciarCorrerioVoz.   |
+| [AparelhoTelefonico](https://github.com/DurezahGeek/Diagramacao-de-classes-do-iphone/tree/main/src/IPhone/AparelhoTelefonico)    | ligar, atender, iniciarCorreioVoz.   |
 | [NavegadorInternet](https://github.com/DurezahGeek/Diagramacao-de-classes-do-iphone/tree/main/src/IPhone/NavegadorInternet)        | exibirPagina, adicionarNovaAba, atualizarPagina.   |
 | [ReprodutorMusical](https://github.com/DurezahGeek/Diagramacao-de-classes-do-iphone/tree/main/src/IPhone/ReprodutorMusical)        | tocar, pausar, selecionarMusica   |
 
